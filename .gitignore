@@ -1,7 +1,6 @@
 .env
 personas.tsv
 reviews.tsv
-final_reviews.csv
 __pycache__
 __pycache__/
 data.py 

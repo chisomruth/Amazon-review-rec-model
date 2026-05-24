@@ -1,0 +1,8 @@
+{
+  "eval/rating_mae": 0.4,
+  "eval/rating_acc_exact": 0.68,
+  "eval/rating_acc_within1": 0.96,
+  "eval/avg_rouge1": 0.1738,
+  "eval/n_samples": 100,
+  "eval/n_parsed": 100
+}
