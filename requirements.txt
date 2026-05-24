@@ -1,0 +1,4 @@
+modal
+trl
+rouge_score
+huggingface_hub
